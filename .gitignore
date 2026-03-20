@@ -1,0 +1,24 @@
+# Credentials
+.env
+
+# Excel databases
+*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
